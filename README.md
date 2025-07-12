@@ -1,4 +1,4 @@
-# Pokémon App
+# 🔥 Pokémon App
 
 Uma Single Page Application (SPA) para listagem e visualização de detalhes de Pokémons utilizando a PokéAPI.
 
